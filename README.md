@@ -1,1 +1,17 @@
-# trabalhoarquitetura
+# Arquitetura de Computadores
+Este readme diz respeito ao trabalho da matéria Arquitetura de Computadores, lecionada pelo professor Heleno Cardoso.
+
+Alunos:
+Vitor Martins de Moraes | https://github.com/moraesvmm
+Beatriz de Abreu Conceição | https://github.com/Biabreuz
+Gustavo de Jesus dos Santos |
+Jeferson Jesus dos Santos | https://github.com/97jef 
+Miguel de Souza Miranda | https://github.com/Migueldsm10
+
+# Podcast
+Arquivo de áudio da equipe:
+https://podcasters.spotify.com/pod/show/jeferson-0/episodes/Trabalho-de-Arquitetura-de-Computadores-e2kcbp2
+
+# Jogo Quiz
+Kahoot: 
+https://create.kahoot.it/share/arquitetura-computacional/b2c89dfe-fb9b-4d82-aaea-318f6cbbbb18
