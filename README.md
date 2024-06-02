@@ -2,7 +2,7 @@
 Este readme diz respeito ao trabalho da matéria Arquitetura de Computadores, lecionada pelo professor Heleno Cardoso.
 
 Alunos:
-Vitor Martins de Moraes | https://github.com/moraesvmm
+Vitor Martins de Moraes | https://github.com/moraesvmm <br>
 Beatriz de Abreu Conceição | https://github.com/Biabreuz
 Gustavo de Jesus dos Santos |
 Jeferson Jesus dos Santos | https://github.com/97jef 
