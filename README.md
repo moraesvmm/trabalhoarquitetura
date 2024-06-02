@@ -4,7 +4,7 @@ Este readme diz respeito ao trabalho da matéria Arquitetura de Computadores, le
 Alunos:
 Vitor Martins de Moraes | https://github.com/moraesvmm <br>
 Beatriz de Abreu Conceição | https://github.com/Biabreuz <br>
-Gustavo de Jesus dos Santos | <br>
+Gustavo de Jesus dos Santos | https://github.com/Guszhk <br>
 Jeferson Jesus dos Santos | https://github.com/97jef <br>
 Miguel de Souza Miranda | https://github.com/Migueldsm10 <br>
 
